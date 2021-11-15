@@ -261,4 +261,13 @@ cython_debug/
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
 
+### User-defined ignores ###
+# do not commit and push output files
+*_test.log_structured.csv
+*_train.log_structured.csv
+*_test.log_templates.csv
+*_train.log_templates.csv
+*.log_structured.csv
+*.log_templates.csv
+
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm
