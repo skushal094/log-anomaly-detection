@@ -1,2 +1,4 @@
+** Note: Some data files are not able to push because the size is too large. 
+
 for training -> HDFS_train.log_structured.csv
 for testing -> HDFS_test.log_structured.csv
