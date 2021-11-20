@@ -269,5 +269,8 @@ cython_debug/
 *_train.log_templates.csv
 *.log_structured.csv
 *.log_templates.csv
-
+*.csv
+*.npy
+x_test_tf-idf_v5.npy
+x_train_tf-idf_v5.npy
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm
